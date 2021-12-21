@@ -1,0 +1,16 @@
+.card{
+    color: rgb(13, 94, 94);
+    font-style: oblique;
+    text-align: center;
+}
+button{
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    cursor: pointer;
+    height: 30px;
+    border-radius: 6px;
+    border: none;
+    font-size: 16px;
+    font-weight: 700;
+}
